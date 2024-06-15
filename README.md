@@ -8,5 +8,5 @@ By combining mobile development, machine learning, and API communication, this p
   <img src="./images/ML.png" alt="Horizontal Image" style="width:450px;vertical-align:top"/>
   <img src="./images/app.png" alt="Vertical Image" style="width:350px;"/>
   <img src="./images/app2.png" alt="Vertical Image" style="width:150px;"/>
-  <!-- Add more images as needed -->
+  
 </div>
